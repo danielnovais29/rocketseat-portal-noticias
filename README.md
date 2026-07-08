@@ -1,7 +1,7 @@
 # 📰 Portal de Notícias
 
 <p align="center">
-  <img src="./assets/preview.png" alt="Preview do projeto" width="100%">
+  <img src="./assents/preview.png" alt="Preview do projeto" width="100%">
 </p>
 
 <p align="center">
@@ -95,7 +95,7 @@ Abra o arquivo `index.html` no navegador.
 ## 📸 Preview
 
 <p align="center">
-  <img src="./assets/preview.png" alt="Preview do Portal de Notícias">
+  <img src="./assents/preview.png" alt="Preview do Portal de Notícias">
 </p>
 
 ---
